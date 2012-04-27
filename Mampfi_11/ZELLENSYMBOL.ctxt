@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=xNeu\ yNeu
+comment0.target=ZELLENSYMBOL(int,\ int)
+comment0.text=\n\ Erzeugt\ eine\ Zelle\ mit\ der\ angebeneben\ x-\ und\ y-Position\ im\ Labyrinth\n\ @param\ xNeu\n\ @param\ yNeu\n
+comment1.params=farbeNeu
+comment1.target=void\ FuellFarbeSetzen(java.lang.String)
+comment1.text=\n\ \uFFFDndert\ die\ F&uuml;llfarbe\ dieses\ Symbols\n\ @see\ KruemelDarstellungImpl\#FarbeSetzen(java.lang.String)\n
+comment2.params=farbeNeu
+comment2.target=void\ RandFarbeSetzen(java.lang.String)
+comment2.text=\n\ \uFFFDndert\ die\ Randfarbe\ dieses\ Symbols\n\ @see\ backend.view.DarstellungImpl\#RandFarbeSetzen(java.lang.String)\n
+comment3.params=b
+comment3.target=void\ FuellungSichtbarSetzen(boolean)
+comment3.text=\n\ Gibt\ an\ ob\ das\ Symbol\ ausgef&uuml;llt\ werden\ soll\n\ @see\ backend.view.DarstellungImpl\#FuellungSichtbarSetzen(boolean)\n
+comment4.params=b
+comment4.target=void\ RandSichtbarSetzen(boolean)
+comment4.text=\n\ Gibt\ ob\ der\ Rand\ des\ Symbols\ gezeichnet\ werden\ soll\n\ @see\ backend.view.DarstellungImpl\#RandSichtbarSetzen(boolean)\n
+numComments=5

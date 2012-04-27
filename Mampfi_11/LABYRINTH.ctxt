@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LABYRINTH()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ LABYRINTH\n
+comment1.params=x\ y
+comment1.target=void\ mauerSetzen(int,\ int)
+comment2.params=x\ y
+comment2.target=boolean\ hatMauer(int,\ int)
+comment3.params=
+comment3.target=void\ erstelleLabyrinth()
+comment4.params=
+comment4.target=void\ durchgangMarkieren()
+comment5.params=
+comment5.target=void\ Geistmauer()
+comment6.params=x\ y
+comment6.target=boolean\ hatKruemel(int,\ int)
+comment7.params=x\ y
+comment7.target=void\ loescheKruemel(int,\ int)
+comment8.params=
+comment8.target=void\ powerKruemel()
+comment9.params=x\ y
+comment9.target=boolean\ hatPowerball(int,\ int)
+numComments=10

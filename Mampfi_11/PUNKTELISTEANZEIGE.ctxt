@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PUNKTELISTEANZEIGE()
+comment0.text=\n\ Konstructor\ fuer\ <a\ class\="glossary\ autolink\ glossaryid55"\ title\="Fachbegriffe\ zur\ Objektorientierten\ Modellierung\ und\ Programmierung\:\ Objekte"\ href\="http\://moodle.mzml.de/moodle19_GO/mod/glossary/showentry.php?courseid\=73&amp;concept\=Objekte"\ onclick\="return\ openpopup('/mod/glossary/showentry.php?courseid\=73\\&amp;concept\=Objekte',\ 'entry',\ 'menubar\=0,location\=0,scrollbars,resizable,width\=600,height\=450',\ 0);">Objekte</a>\ der\ Klasse\ PUNKTELISTEANZEIGE\n
+comment1.params=namensListe\ punkteListe
+comment1.target=void\ Aktualisieren(java.lang.String[],\ int[])
+comment1.text=\n\ Mit\ dieser\ Methode\ kann\ eine\ neue\ Punkteliste\ mit\ Punkteintraegen\ an\ die\ PunktelisteAnzeige\ uebergeben\ werden.\n\ \n\ @param\ \ namensliste,\ punkteliste\ \ \ \n
+comment2.params=ueberschriftNeu
+comment2.target=void\ UeberschriftSetzen(java.lang.String)
+comment2.text=\n\ Mit\ dieser\ Methode\ kann\ eine\ neue\ Ueberschrift\ fuer\ die\ Punkteliste\ gesetzt\ werden.\n\ \n\ @param\ ueberschriftNeu\n
+comment3.params=schriftart
+comment3.target=void\ SchriftartSetzen(java.awt.Font)
+comment3.text=\n\ Dient\ zum\ Setzen\ der\ Schriftart\ der\ PunkteListe\n\ @param\ Font\ schriftart\n
+comment4.params=farbe
+comment4.target=void\ SchriftfarbeSetzen(java.lang.String)
+comment4.text=\n\ Dient\ zum\ setzen\ der\ Schriftfarbe\ der\ PunkteListe\n\ @param\ String\ schriftfarbe\n
+numComments=5

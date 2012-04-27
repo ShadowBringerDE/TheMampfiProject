@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=xNeu\ yNeu
+comment0.target=KRUEMELSYMBOL(int,\ int)
+comment0.text=\n\ Erzeugt\ eine\ Kruemel\ mit\ den\ angegebenen\ x-\ und\ y-Werten\n\ @param\ xNeu\ -\ die\ x-Position\n\ @param\ yNeu\ -\ die\ y-Position\n
+comment1.params=radiusNeu
+comment1.target=void\ RadiusSetzen(int)
+comment1.text=\n\ Aendert\ den\ Radius\ der\ KRUEMELDARSTELLUNG\n\ Benutze\ diese\ Methode\ z.B.\ dafuer\ um\ Kruemel\ mit\ unterschiedlichem\ Wert\ darzustellen.\n\ @see\ KruemelDarstellungImpl\#RadiusSetzen(int)\n
+comment2.params=farbeNeu
+comment2.target=void\ FuellFarbeSetzen(java.lang.String)
+comment2.text=\n\ Aendert\ die\ Fuellfarbe\ dieses\ Symbols\n\ @see\ KruemelDarstellungImpl\#FarbeSetzen(java.lang.String)\n
+comment3.params=farbeNeu
+comment3.target=void\ RandFarbeSetzen(java.lang.String)
+comment3.text=\n\ &Auml;ndert\ die\ Randfarbe\ dieses\ Symbols\n\ @see\ backend.view.DarstellungImpl\#RandFarbeSetzen(java.lang.String)\n
+comment4.params=b
+comment4.target=void\ FuellungSichtbarSetzen(boolean)
+comment4.text=\n\ Gibt\ an\ ob\ das\ Symbol\ ausgefuellt\ werden\ soll\n\ @see\ backend.view.DarstellungImpl\#FuellungSichtbarSetzen(boolean)\n
+comment5.params=b
+comment5.target=void\ RandSichtbarSetzen(boolean)
+comment5.text=\n\ Gibt\ ob\ der\ Rand\ des\ Symbols\ gezeichnet\ werden\ soll\n\ @see\ backend.view.DarstellungImpl\#RandSichtbarSetzen(boolean)\n
+comment6.params=
+comment6.target=void\ KruemelSymbolEntfernen()
+numComments=7

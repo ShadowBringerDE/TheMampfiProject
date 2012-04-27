@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SPIELSTEUERUNG()
+comment1.params=taste
+comment1.target=void\ AufTasteReagieren(int)
+comment2.params=v
+comment2.target=void\ verwundbarSetzen(boolean)
+comment3.params=x\ y
+comment3.target=char\ zelleAuswerten(int,\ int)
+numComments=4

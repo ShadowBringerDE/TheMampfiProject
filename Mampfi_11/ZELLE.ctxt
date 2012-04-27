@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=posX_Neu\ posY_Neu
+comment0.target=ZELLE(int,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ZELLE\n
+comment1.params=
+comment1.target=void\ mauerSetzen()
+comment2.params=
+comment2.target=boolean\ hatMauer()
+comment3.params=
+comment3.target=void\ RandFarbe()
+comment4.params=
+comment4.target=void\ loescheKruemel()
+comment5.params=
+comment5.target=boolean\ hatKruemel()
+comment6.params=
+comment6.target=void\ powerKruemel()
+comment7.params=
+comment7.target=boolean\ hatPower()
+numComments=8

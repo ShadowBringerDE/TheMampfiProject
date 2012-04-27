@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VERLAUFSLISTE()
+comment1.params=nameNeu\ punkteNeu
+comment1.target=void\ neuenSpielerEinfuegen(java.lang.String,\ int)
+numComments=2
